@@ -31,7 +31,7 @@ Project Structure
 Test Scope
 
 ✅ Build & run single-stream pipelines  
-✅ Run multiple streams (1, 2, 4, 6, 8) in parallel  
+✅ Run multiple streams (1, 2, 4) in parallel  
 ✅ Measure:
 - Total and per-stream FPS on **CPU**
 - Average and peak CPU usage
@@ -51,7 +51,14 @@ Focus
 Note: This project specifically benchmarks CPU performance only — no GPU or VPU results are included.
 
 
+
+
+
 Author
 Praveen Chourasia
+
+
+
+
 
 Feel free to clone, modify, and extend this test setup for your own hardware!
