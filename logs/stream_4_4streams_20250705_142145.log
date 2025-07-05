@@ -1,0 +1,55 @@
+Setting pipeline to PAUSED ...
+Pipeline is PREROLLING ...
+Redistribute latency...
+DRM_IOCTL_VERSION, unsupported drm device by media driver: nouv
+DRM_IOCTL_VERSION, unsupported drm device by media driver: nouv
+Got context from element 'vah264dec0': gst.va.display.handle=context, gst-display=(GstObject)"\(GstVaDisplayDrm\)\ vadisplaydrm2", description=(string)"Intel\(R\)\ Gen\ Graphics", path=(string)/dev/dri/renderD129;
+Redistribute latency...
+Redistribute latency...
+Redistribute latency...
+Pipeline is PREROLLED ...
+Setting pipeline to PLAYING ...
+Redistribute latency...
+New clock: GstSystemClock
+FpsCounter(last 1.53sec): total=2.62 fps, number-streams=1, per-stream=2.62 fps
+FpsCounter(average 1.54sec): total=2.60 fps, number-streams=1, per-stream=2.60 fps
+FpsCounter(last 1.05sec): total=1.91 fps, number-streams=1, per-stream=1.91 fps
+FpsCounter(average 2.60sec): total=2.31 fps, number-streams=1, per-stream=2.31 fps
+FpsCounter(last 1.38sec): total=2.17 fps, number-streams=1, per-stream=2.17 fps
+FpsCounter(average 3.96sec): total=2.27 fps, number-streams=1, per-stream=2.27 fps
+FpsCounter(last 1.26sec): total=2.39 fps, number-streams=1, per-stream=2.39 fps
+FpsCounter(average 5.22sec): total=2.30 fps, number-streams=1, per-stream=2.30 fps
+FpsCounter(last 1.01sec): total=1.98 fps, number-streams=1, per-stream=1.98 fps
+FpsCounter(average 6.22sec): total=2.25 fps, number-streams=1, per-stream=2.25 fps
+FpsCounter(last 1.07sec): total=1.87 fps, number-streams=1, per-stream=1.87 fps
+FpsCounter(average 7.29sec): total=2.19 fps, number-streams=1, per-stream=2.19 fps
+FpsCounter(last 1.27sec): total=2.37 fps, number-streams=1, per-stream=2.37 fps
+FpsCounter(average 8.56sec): total=2.22 fps, number-streams=1, per-stream=2.22 fps
+FpsCounter(last 1.38sec): total=2.17 fps, number-streams=1, per-stream=2.17 fps
+FpsCounter(average 9.94sec): total=2.21 fps, number-streams=1, per-stream=2.21 fps
+FpsCounter(last 1.36sec): total=2.20 fps, number-streams=1, per-stream=2.20 fps
+FpsCounter(average 11.30sec): total=2.21 fps, number-streams=1, per-stream=2.21 fps
+FpsCounter(last 1.37sec): total=2.20 fps, number-streams=1, per-stream=2.20 fps
+FpsCounter(average 12.67sec): total=2.21 fps, number-streams=1, per-stream=2.21 fps
+FpsCounter(last 1.46sec): total=2.06 fps, number-streams=1, per-stream=2.06 fps
+FpsCounter(average 14.13sec): total=2.19 fps, number-streams=1, per-stream=2.19 fps
+FpsCounter(last 1.01sec): total=1.98 fps, number-streams=1, per-stream=1.98 fps
+FpsCounter(average 15.14sec): total=2.18 fps, number-streams=1, per-stream=2.18 fps
+FpsCounter(last 1.05sec): total=1.91 fps, number-streams=1, per-stream=1.91 fps
+FpsCounter(average 16.19sec): total=2.16 fps, number-streams=1, per-stream=2.16 fps
+FpsCounter(last 1.40sec): total=2.15 fps, number-streams=1, per-stream=2.15 fps
+FpsCounter(average 17.58sec): total=2.16 fps, number-streams=1, per-stream=2.16 fps
+FpsCounter(last 1.01sec): total=1.97 fps, number-streams=1, per-stream=1.97 fps
+FpsCounter(average 18.60sec): total=2.15 fps, number-streams=1, per-stream=2.15 fps
+FpsCounter(last 1.18sec): total=1.69 fps, number-streams=1, per-stream=1.69 fps
+FpsCounter(average 19.78sec): total=2.12 fps, number-streams=1, per-stream=2.12 fps
+FpsCounter(last 1.14sec): total=1.75 fps, number-streams=1, per-stream=1.75 fps
+FpsCounter(average 20.92sec): total=2.10 fps, number-streams=1, per-stream=2.10 fps
+FpsCounter(last 1.04sec): total=1.92 fps, number-streams=1, per-stream=1.92 fps
+FpsCounter(average 21.97sec): total=2.09 fps, number-streams=1, per-stream=2.09 fps
+FpsCounter(last 1.11sec): total=2.70 fps, number-streams=1, per-stream=2.70 fps
+FpsCounter(average 23.08sec): total=2.12 fps, number-streams=1, per-stream=2.12 fps
+FpsCounter(last 1.17sec): total=3.41 fps, number-streams=1, per-stream=3.41 fps
+FpsCounter(average 24.25sec): total=2.19 fps, number-streams=1, per-stream=2.19 fps
+FpsCounter(last 1.07sec): total=2.80 fps, number-streams=1, per-stream=2.80 fps
+FpsCounter(average 25.32sec): total=2.21 fps, number-streams=1, per-stream=2.21 fps

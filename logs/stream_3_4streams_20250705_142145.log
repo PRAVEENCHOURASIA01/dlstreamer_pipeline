@@ -1,0 +1,63 @@
+Setting pipeline to PAUSED ...
+Pipeline is PREROLLING ...
+Redistribute latency...
+DRM_IOCTL_VERSION, unsupported drm device by media driver: nouv
+DRM_IOCTL_VERSION, unsupported drm device by media driver: nouv
+Got context from element 'vah264dec0': gst.va.display.handle=context, gst-display=(GstObject)"\(GstVaDisplayDrm\)\ vadisplaydrm2", description=(string)"Intel\(R\)\ Gen\ Graphics", path=(string)/dev/dri/renderD129;
+Redistribute latency...
+Redistribute latency...
+Redistribute latency...
+Pipeline is PREROLLED ...
+Setting pipeline to PLAYING ...
+New clock: GstSystemClock
+Redistribute latency...
+FpsCounter(last 1.33sec): total=4.50 fps, number-streams=1, per-stream=4.50 fps
+FpsCounter(average 1.33sec): total=4.50 fps, number-streams=1, per-stream=4.50 fps
+Redistribute latency...
+FpsCounter(last 1.07sec): total=5.60 fps, number-streams=1, per-stream=5.60 fps
+FpsCounter(average 2.40sec): total=4.99 fps, number-streams=1, per-stream=4.99 fps
+Redistribute latency...
+FpsCounter(last 1.15sec): total=6.08 fps, number-streams=1, per-stream=6.08 fps
+FpsCounter(average 3.56sec): total=5.34 fps, number-streams=1, per-stream=5.34 fps
+FpsCounter(last 1.05sec): total=3.83 fps, number-streams=1, per-stream=3.83 fps
+FpsCounter(average 4.62sec): total=4.98 fps, number-streams=1, per-stream=4.98 fps
+FpsCounter(last 1.10sec): total=5.47 fps, number-streams=1, per-stream=5.47 fps
+FpsCounter(average 5.71sec): total=5.08 fps, number-streams=1, per-stream=5.08 fps
+FpsCounter(last 1.19sec): total=5.86 fps, number-streams=1, per-stream=5.86 fps
+FpsCounter(average 6.90sec): total=5.22 fps, number-streams=1, per-stream=5.22 fps
+FpsCounter(last 1.08sec): total=5.53 fps, number-streams=1, per-stream=5.53 fps
+FpsCounter(average 7.98sec): total=5.26 fps, number-streams=1, per-stream=5.26 fps
+FpsCounter(last 1.33sec): total=4.52 fps, number-streams=1, per-stream=4.52 fps
+FpsCounter(average 9.31sec): total=5.15 fps, number-streams=1, per-stream=5.15 fps
+FpsCounter(last 1.18sec): total=5.10 fps, number-streams=1, per-stream=5.10 fps
+FpsCounter(average 10.48sec): total=5.15 fps, number-streams=1, per-stream=5.15 fps
+FpsCounter(last 1.15sec): total=5.20 fps, number-streams=1, per-stream=5.20 fps
+FpsCounter(average 11.64sec): total=5.16 fps, number-streams=1, per-stream=5.16 fps
+FpsCounter(last 1.06sec): total=6.63 fps, number-streams=1, per-stream=6.63 fps
+FpsCounter(average 12.69sec): total=5.28 fps, number-streams=1, per-stream=5.28 fps
+FpsCounter(last 1.09sec): total=5.48 fps, number-streams=1, per-stream=5.48 fps
+FpsCounter(average 13.79sec): total=5.29 fps, number-streams=1, per-stream=5.29 fps
+FpsCounter(last 1.10sec): total=4.53 fps, number-streams=1, per-stream=4.53 fps
+FpsCounter(average 14.89sec): total=5.24 fps, number-streams=1, per-stream=5.24 fps
+FpsCounter(last 1.19sec): total=4.19 fps, number-streams=1, per-stream=4.19 fps
+FpsCounter(average 16.08sec): total=5.16 fps, number-streams=1, per-stream=5.16 fps
+FpsCounter(last 1.11sec): total=3.61 fps, number-streams=1, per-stream=3.61 fps
+FpsCounter(average 17.19sec): total=5.06 fps, number-streams=1, per-stream=5.06 fps
+FpsCounter(last 1.05sec): total=2.86 fps, number-streams=1, per-stream=2.86 fps
+FpsCounter(average 18.24sec): total=4.93 fps, number-streams=1, per-stream=4.93 fps
+FpsCounter(last 1.17sec): total=3.41 fps, number-streams=1, per-stream=3.41 fps
+FpsCounter(average 19.42sec): total=4.84 fps, number-streams=1, per-stream=4.84 fps
+FpsCounter(last 1.06sec): total=2.82 fps, number-streams=1, per-stream=2.82 fps
+FpsCounter(average 20.48sec): total=4.74 fps, number-streams=1, per-stream=4.74 fps
+FpsCounter(last 1.24sec): total=2.41 fps, number-streams=1, per-stream=2.41 fps
+FpsCounter(average 21.73sec): total=4.60 fps, number-streams=1, per-stream=4.60 fps
+FpsCounter(last 1.20sec): total=3.34 fps, number-streams=1, per-stream=3.34 fps
+FpsCounter(average 22.92sec): total=4.54 fps, number-streams=1, per-stream=4.54 fps
+FpsCounter(last 1.00sec): total=4.99 fps, number-streams=1, per-stream=4.99 fps
+FpsCounter(average 23.92sec): total=4.56 fps, number-streams=1, per-stream=4.56 fps
+FpsCounter(last 1.02sec): total=7.88 fps, number-streams=1, per-stream=7.88 fps
+FpsCounter(average 24.94sec): total=4.69 fps, number-streams=1, per-stream=4.69 fps
+FpsCounter(last 1.17sec): total=5.98 fps, number-streams=1, per-stream=5.98 fps
+FpsCounter(average 26.11sec): total=4.75 fps, number-streams=1, per-stream=4.75 fps
+FpsCounter(last 1.07sec): total=6.55 fps, number-streams=1, per-stream=6.55 fps
+FpsCounter(average 27.17sec): total=4.82 fps, number-streams=1, per-stream=4.82 fps
