@@ -1,0 +1,3 @@
+[submodule "gpu_code"]
+	path = gpu_code
+	url = https://github.com/srinidhi1-dwarak/dlstreamer_pipeline-gpu.git
